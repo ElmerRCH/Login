@@ -1,0 +1,16 @@
+
+import NavBar from './components/navbar';
+import Login from './components/login';
+
+import './App.css';
+
+function App() {
+  return(
+   
+     
+   <Login/>
+    
+   
+  );
+}
+export default App;
